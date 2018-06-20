@@ -1,0 +1,11 @@
+C:\Users\BERNABE\source\repos\Proyecto Logica\Proyecto Logica\bin\Debug\Proyecto Logica.exe.config
+C:\Users\BERNABE\source\repos\Proyecto Logica\Proyecto Logica\bin\Debug\Proyecto Logica.exe
+C:\Users\BERNABE\source\repos\Proyecto Logica\Proyecto Logica\bin\Debug\Proyecto Logica.pdb
+C:\Users\BERNABE\source\repos\Proyecto Logica\Proyecto Logica\obj\Debug\Proyecto Logica.csprojResolveAssemblyReference.cache
+C:\Users\BERNABE\source\repos\Proyecto Logica\Proyecto Logica\obj\Debug\Proyecto_Logica.Form1.resources
+C:\Users\BERNABE\source\repos\Proyecto Logica\Proyecto Logica\obj\Debug\Proyecto_Logica.Properties.Resources.resources
+C:\Users\BERNABE\source\repos\Proyecto Logica\Proyecto Logica\obj\Debug\Proyecto Logica.csproj.GenerateResource.cache
+C:\Users\BERNABE\source\repos\Proyecto Logica\Proyecto Logica\obj\Debug\Proyecto Logica.csproj.CoreCompileInputs.cache
+C:\Users\BERNABE\source\repos\Proyecto Logica\Proyecto Logica\obj\Debug\Proyecto Logica.exe
+C:\Users\BERNABE\source\repos\Proyecto Logica\Proyecto Logica\obj\Debug\Proyecto Logica.pdb
+C:\Users\BERNABE\source\repos\Proyecto Logica\Proyecto Logica\obj\Debug\Proyecto_Logica.PostLogin.resources
